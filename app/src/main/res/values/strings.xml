@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gestor de Contenido TMDB</string>
+    <!-- menu items-->
+    <string name="menu_movies">PELICULAS</string>
+    <string name="menu_tvShows">SERIES</string>
+    <string name="menu_actors">ACTORES</string>
+
+    <!-- input hints -->
+    <string name="query_hint">Escribe texto a buscar</string>
+    <string name="year_hint">Introduce un año</string>
+
+    <!-- search buttons -->
+    <string name="btnSearchActor">Buscar actores</string>
+    <string name="btnSearchMovies">Buscar peliculas</string>
+    <string name="btnSearchTvShows">Buscar series</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
